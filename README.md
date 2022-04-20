@@ -67,6 +67,10 @@
      
    ---
    ### :writing_hand: Проекты :
+  
+   #### C#:
+   1) <a href="https://github.com/LenarXLA/ProFIT">ProFIT</a>.
+   2) <a href="https://github.com/LenarXLA/GameWebApp">GameWeb - просмотр пройденных игр</a>.
      
    <a href="https://lenarxla.github.io/portfolio">Ссылка на старую страничку портфолио с проектами</a>.  
      <a href="https://github.com/LenarXLA/Resume">Список моих первых проектов</a>.
