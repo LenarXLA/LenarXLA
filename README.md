@@ -17,14 +17,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=LenarXLA&style=flat-square&color=blue" alt=""/>
   
-  <h1>
-  Всем привет!
-  <img src="https://media.giphy.com/media/76Ezod7CxRDqivd57V/giphy.gif" width="70px"/>
-  </h1>
-  
-  <div id="poster">
-  <img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" width="400" height="250"/>
-  </div>
+  <h1>Всем привет!</h1>
   
    <div id="about" align="left"> 
      
