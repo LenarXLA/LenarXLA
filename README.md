@@ -64,6 +64,8 @@
    #### C#:
    1) <a href="https://github.com/LenarXLA/ProFIT">ProFIT</a>.
    2) <a href="https://github.com/LenarXLA/GameWebApp">GameWeb - просмотр пройденных игр</a>.
+   3) <a href="https://github.com/LenarXLA/AutoTest">Приложение для автотеста веб-страничек с загрузкой адресов с таблицы Excel</a>.
+   4) <a href="https://github.com/LenarXLA/GamesTracker">Отслежвание игр (in process)</a>.
      
    <a href="https://lenarxla.github.io/portfolio">Ссылка на старую страничку портфолио с проектами</a>.  
      <a href="https://github.com/LenarXLA/Resume">Список моих первых проектов</a>.
