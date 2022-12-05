@@ -22,7 +22,7 @@
    <div id="about" align="left"> 
      
   ### :man_technologist: Обо мне :
-  Я программист-разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+  Я любитель программист самоучка (ну или пытаюсь им быть) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
      
   - :telescope: Обожаю изучать новые технологии, статьи про разработку.
 
