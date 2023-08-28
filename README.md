@@ -69,8 +69,8 @@
    5) <a href="https://github.com/LenarXLA/super-lamp">Сайт-пост(серверная часть, авторизация на основе JWT)</a>.
    6) <a href="https://github.com/LenarXLA/Project.Angular">Сайт-пост(клиентская часть)</a>.
      
-   <a href="https://lenarxla.github.io/portfolio">Ссылка на старую страничку портфолио с проектами</a>.  
-     <a href="https://github.com/LenarXLA/Resume">Список моих первых проектов</a>.
+   <a href="https://lenarxla.github.io/portfolio">Ссылка на старую страничку портфолио с проектами(*Deprecated!)</a>.  
+     <a href="https://github.com/LenarXLA/Resume">Список моих первых проектов(*Deprecated!)</a>.
      
   </div>
   
