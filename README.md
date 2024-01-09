@@ -70,6 +70,7 @@
    6) <a href="https://github.com/LenarXLA/Project.Angular">Сайт-пост(клиентская часть)</a>.
    7) <a href="https://github.com/LenarXLA/CargoApp/tree/main/CargoRequestAPI">Веб-API для работы с заявками в грузоперевозке</a>.
    8) <a href="https://github.com/LenarXLA/WaterApp">MVVM приложение Windows</a>.
+   9) <a href="https://github.com/LenarXLA/Football_App">Футбольный менеджер. MVVM</a>.
      
    <a href="https://lenarxla.github.io/portfolio">Ссылка на старую страничку портфолио с проектами(*Deprecated!)</a>.  
      <a href="https://github.com/LenarXLA/Resume">Список моих первых проектов(*Deprecated!)</a>.
